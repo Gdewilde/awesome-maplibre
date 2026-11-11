@@ -1,0 +1,14 @@
+README.md
+  h_da2a2b4df6da02 407
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ad4975f428934c98bfd813817934deb9cd3a2285",
+  "prompts": {},
+  "humans": {
+    "h_da2a2b4df6da02": {
+      "author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
